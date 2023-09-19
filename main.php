@@ -18,21 +18,21 @@
     <main>
         <div id="content">
             <div class="landing-page pt-3">
-                <img src="img/ornament/top-landing.png" alt="" class="landing-ornament">
-                <img src="img/ornament/corner-landing.png" alt="" class="landing-corner-top">
-                <img src="img/ornament/corner-landing.png" alt="" class="landing-corner-bottom">
+                <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/top-landing.png" alt="" class="landing-ornament">
+                <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/corner-landing.png" alt="" class="landing-corner-top">
+                <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/corner-landing.png" alt="" class="landing-corner-bottom">
 
                 <div class="landpage-caption text-center pt-3 overflow-x-hidden" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1300">
                     <p class="text-secondary text font-italic">The Wedding Of</p>
                     <h1 class="font-alexBrush text-center mb-4">Gita & Rizaldy</h1>
-                    <img src="img/foto_outline.PNG" alt="" style="max-width: 80%; margin-bottom: 100px;">
+                    <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/foto_outline.PNG" alt="" style="max-width: 80%; margin-bottom: 100px;">
                 </div> <!-- end landpage-caption -->
             </div> <!-- end landing-page -->
             <div class="container intro-person" style="position: relative;">
-                <img src="img/ornament/flower.png" alt="" class="ornament-top-right">
-                <img src="img/ornament/flower.png" alt="" class="ornament-top-left">
+                <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/flower.png" alt="" class="ornament-top-right">
+                <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/flower.png" alt="" class="ornament-top-left">
                 <div class="hadith col-md-8">
-                    <img src="img/ornament/bismillah.png" alt="Bismillah" style="height:5%;" class="mb-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
+                    <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/bismillah.png" alt="Bismillah" style="height:5%;" class="mb-4" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
                     <p data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="800">
                         Maha Suci Allah SWT
                         yang telah menciptakan makhluk-Nya berpasang-pasangan
@@ -43,7 +43,7 @@
                 <div class="container-couple overflow-x-hidden">
                     <div class="couple-half" data-aos="fade-left" data-aos-easing="ease-in-sine" data-aos-duration="1000">
                         <div class="photo-holder">
-                            <img src="img/bride.png" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/bride.png" alt="">
                         </div> <!-- end photo-holder -->
                         <div class="desc-groom">
                             <h1 class="font-alexBrush m-0">Gita</h1>
@@ -76,7 +76,7 @@
                             </p>
                         </div> <!-- end desc-groom -->
                         <div class="photo-holder">
-                            <img src="img/groom.png" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/groom.png" alt="">
                         </div> <!-- end photo-holder -->
                     </div> <!-- end couple-half -->
 
@@ -93,8 +93,8 @@
                     <p class="font-weight-bold">- Surat Ar-Rum Ayat 21 -</p>
 
                 </div> <!-- end hadith -->
-                <img src="img/ornament/flower.png" alt="" class="ornament-bottom-right">
-                <img src="img/ornament/flower.png" alt="" class="ornament-bottom-left">
+                <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/flower.png" alt="" class="ornament-bottom-right">
+                <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/ornament/flower.png" alt="" class="ornament-bottom-left">
             </div>
             <div class="container schedule-container">
                 <div class="schedule">
@@ -154,22 +154,22 @@
                 <div class="gallery container">
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="img/galeri/galeri (1).jpg" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/galeri/galeri (1).jpg" alt="">
                         </div>
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="img/galeri/galeri (2).jpg" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/galeri/galeri (2).jpg" alt="">
                         </div>
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="img/galeri/galeri (3).jpg" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/galeri/galeri (3).jpg" alt="">
                         </div>
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="img/galeri/galeri (4).jpg" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/galeri/galeri (4).jpg" alt="">
                         </div>
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="img/galeri/galeri (5).jpg" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/galeri/galeri (5).jpg" alt="">
                         </div>
                         <div class="col-md-6 col-sm-6 col-12" data-aos="fade-up" data-aos-easing="ease-in-sine">
-                            <img src="img/galeri/galeri (6).jpg" alt="">
+                            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/galeri/galeri (6).jpg" alt="">
                         </div>
                     </div> <!-- end row -->
                 </div> <!-- end gallery -->
@@ -249,7 +249,7 @@
     </main>
     <footer>
         <div class="text-center">
-            <img src="img/logo.png" alt="Tower Barat Creative" style="max-width: 50%;">
+            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/logo.png" alt="Tower Barat Creative" style="max-width: 50%;">
         </div>
     </footer>
     <script>

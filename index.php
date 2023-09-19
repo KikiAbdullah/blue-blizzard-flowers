@@ -18,7 +18,7 @@
         <div id="content">
             <div class="landing-page" style="margin-top:100px;">
                 <div class="landpage-caption text-center pt-3 overflow-x-hidden" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1300">
-                    <img src="img/name.png" alt="" style="max-width: 40%; margin-bottom: 100px;">
+                    <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/name.png" alt="" style="max-width: 40%; margin-bottom: 100px;">
                     <br><br>
                     <p class="text-secondary text font-italic">Kepada Bapak/Ibu Saudara/i :</p>
                     <h1 class="font-alexBrush text-center"><?php echo ucwords(@$_GET['to']) ?></h1>
@@ -33,7 +33,7 @@
     </main>
     <footer>
         <div class="text-center">
-            <img src="img/logo.png" alt="Tower Barat Creative" style="max-width: 50%;">
+            <img src="https://raw.githubusercontent.com/KikiAbdullah/repo-asset-gita-rizaldy/main/logo.png" alt="Tower Barat Creative" style="max-width: 50%;">
         </div>
     </footer>
     <script>
